@@ -62,9 +62,9 @@ Mountkirk Games wants to set up a continuous delivery pipeline. Their architectu
 - [ ] C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
 - [ ] D. Google Cloud Functions, Google Cloud Pub/Sub, Google Cloud Deployment Manager
 
-<details><summary>ANSWER</summary>
-- [x] C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
-</details>
+<details><summary>ANSWER</summary><b>
+C. Google Container Registry, Google Container Engine, Google HTTP(s) Load Balancer
+</b></details>
 
 ---
 ## Question 2
@@ -77,9 +77,9 @@ Mountkirk Games wants to set up a real-time analytics platform for their new gam
 - [ ] D. Cloud Dataproc, Cloud Pub/Sub, Cloud SQL, and Cloud Dataflow
 - [ ] E. Cloud Pub/Sub, Compute Engine, Cloud Storage, and Cloud Dataproc
 
-<details><summary>ANSWER</summary>
-- [x] B. Cloud Dataflow, Cloud Storage, Cloud Pub/Sub, and BigQuery
-</details>
+<details><summary>ANSWER</summary><b>
+B. Cloud Dataflow, Cloud Storage, Cloud Pub/Sub, and BigQuery
+</b></details>
 
 ---
 ![](./gcp-exams-mountkirk.png)
