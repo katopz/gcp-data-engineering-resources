@@ -6,13 +6,14 @@ Your company is evaluating moving to Google Cloud. You will need to migrate your
 - [ ] C. `Cloud SQL`
 - [ ] D. Cloud `BigTable`
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. `Cloud SQL`
+</b>
 
 > `Cloud SQL` is the direct lift and shift option for existing MySQL workloads and requires minimal modification.
 > `Cloud `BigTable`` is a NoSQL analytics database, and not a direct equivalent to a MySQL lift and shift operation.
-
-</b></details>
+</details>
 
 ---
 
@@ -24,12 +25,14 @@ You are evaluating a storage solution for your data. Your data is in structured,
 - [ ] C. `Cloud SQL`
 - [ ] D. Cloud Datastore
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 A. Cloud `BigTable`
+</b>
 
 > `BigTable` meets the requirements of _low latency_ analysis on _non-relational_ data.
 > `Cloud Datastore` supports _non-relational_ data, but is geared more toward transactional uses than analytics.
-</b></details>
+</details>
 
 ---
 
@@ -41,9 +44,11 @@ You need to correct streaming messages that arrive out of order due to latency. 
 - [ ] C. Cloud Pub/Sub
 - [ ] D. `Cloud SQL`
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 B. Cloud Dataflow
-</b></details>
+</b>
+</details>
 
 ---
 
@@ -55,9 +60,11 @@ How would you best connect your `Dataflow` pipeline to `BigTable` for output?
 - [ ] C. Use the `Cloud Dataflow` connector for `BigTable`.
 - [ ] D. `Dataflow` connects natively to `BigTable`.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Use the `Cloud Dataflow` connector for `BigTable`.
-</b></details>
+</b>
+</details>
 
 ---
 
@@ -69,12 +76,14 @@ Which of these open source technologies is the direct equivalent to Google `BigQ
 - [ ] C. Hadoop
 - [ ] D. Pig
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 A. Hive
+</b>
 
 > `Hive` is a data warehouse application that uses SQL queries, which is exactly what `BigQuery` performs.
 > `Hadoop` is not a data warehouse solution.
-</b></details>
+</details>
 
 ---
 
@@ -86,9 +95,11 @@ What is a requirement for running preemptible workers on a `Dataproc` cluster?
 - [ ] C. The cluster must also have at least two standard worker nodes
 - [ ] D. You must configure the startup and shutdown scripts to gracefully handle preemptible nodes being shut down.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. The cluster must also have at least two standard worker nodes
-</b></details>
+</b>
+</details>
 
 ---
 
@@ -100,12 +111,14 @@ You need to extract an address field from a multi-column element using `Dataflow
 - [ ] C. PCollection
 - [ ] D. Transform
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 B. ParDo
+</b>
 
 > `ParDo` is a type of transform that can extract data from a data source.
 > You need to use a transform, but a `ParDo` is the specific type of function we are looking for.
-</b></details>
+</details>
 
 ---
 
@@ -117,12 +130,14 @@ You want to use an open source framework for constructing unified batch and data
 - [ ] C. Apache Beam
 - [ ] D. HBase
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Apache Beam
+</b>
 
 > `Hadoop` does not support batch and stream processing.
 > `Apache Beam` is the open source framework that `Dataflow` is built on, and supports unified batch and data stream pipelines.
-</b></details>
+</details>
 
 ---
 
@@ -134,11 +149,13 @@ Which `Dataflow` concept determines when the contents of a window should be subm
 - [ ] C. Condition
 - [ ] D. Windows
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 B. Trigger
+</b>
 
 > Triggers are what determine when a window's contents should be.
-</b></details>
+</details>
 
 ---
 
@@ -150,9 +167,12 @@ How can you connect to the web interface of a `Dataproc` cluster? (Choose two)
 - [ ] C. HTTP proxy
 - [ ] D. SOCKS proxy
 
-<details><summary>ANSWER</summary><b>
-B, D
-</b></details>
+<details><summary>ANSWER</summary>
+<b>
+B. Allow the necessary web ports access via firewall rules, and limit access to your network.
+D. SOCKS proxy
+</b>
+</details>
 
 ---
 
@@ -164,12 +184,14 @@ Which of these actions can you not perform with the `BigQuery` Web UI?
 - [ ] C. Load multiple files at once
 - [ ] D. Create dataset
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Load multiple files at once
+</b>
 
 > You can toggle Legacy SQL to off using the Web UI.
 > You cannot load multiple files with the web UI, but can with others methods such as the command line.
-</b></details>
+</details>
 
 ---
 
@@ -181,12 +203,14 @@ You have a very large table with many columns that are not immediately relevant 
 - [ ] C. Use views to restrict the amount of data available, and have team members run their query against the view.
 - [ ] D. Hide the unneeded columns from the table.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Use views to restrict the amount of data available, and have team members run their query against the view.
+</b>
 
 > You cannot assign `IAM` roles by columns.
 > A view offers a virtual table that uses data pulled from a more restrictive query, giving less information to work with.
-</b></details>
+</details>
 
 ---
 
@@ -198,11 +222,13 @@ Which of these is not a valid `BigQuery` data format?
 - [ ] C. CSV
 - [ ] D. DOC
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 D. DOC
+</b>
 
 > `BigQuery` can natively load `CSV` files. `BigQuery` cannot load `.DOC` files.
-</b></details>
+</details>
 
 ---
 
@@ -214,13 +240,16 @@ Choose two best practices for creating more efficient queries and saving costs.
 - [ ] C. Normalize your data when possible.
 - [ ] D. Filter early and big with `WHERE` clauses
 
-<details><summary>ANSWER</summary><b>
-B, D
+<details><summary>ANSWER</summary>
+<b>
+B. Avoid using `SELECT *` for column selection.
+D. Filter early and big with `WHERE` clauses
+</b>
 
 > Since `BigQuery` is columnar, choosing unnecessary columns greatly increases query amounts.
 > You want to de-normalize when possible, with nested/repeating columns.
 > The more data you can filter out at the start, the more efficient your queries will be.
-</b></details>
+</details>
 
 ---
 
@@ -232,11 +261,13 @@ You want to analyze data in `BigQuery` that currently sits in the `Cloud SQL` se
 - [ ] C. In `Cloud SQL`, designate `BigQuery` as an alternative write location.
 - [ ] D. Export your `Cloud SQL` data to `Cloud Storage`, and then import from `Cloud Storage` to `BigQuery`.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 D. Export your `Cloud SQL` data to `Cloud Storage`, and then import from `Cloud Storage` to `BigQuery`.
+</b>
 
 > You need to use `Cloud Storage` as your staging ground for importing `Cloud SQL` data into `BigQuery`.
-</b></details>
+</details>
 
 ---
 
@@ -248,12 +279,14 @@ Which of these are you not charged for in `BigQuery`?
 - [ ] C. Streaming Inserts
 - [ ] D. Table storage
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 B. Loading batch data
+</b>
 
 > You are not charged for load and export operations in `BigQuery`.
 > You are charged a small premium for streaming inserts.
-</b></details>
+</details>
 
 ---
 
@@ -265,12 +298,14 @@ You are viewing the details of a recent large query and notice that Stage 1 has 
 - [ ] C. Your query could not be successfully completed.
 - [ ] D. Your query stage spent a long time waiting for additional input.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 A. Stage 1 spent most of its time reading from a large dataset.
+</b>
 
 > The purple indicator indicates high read time.
 > Computation is designated by the orange bar, not purple.
-</b></details>
+</details>
 
 ---
 
@@ -282,12 +317,14 @@ Which Hadoop ecosystem service is most suited to storing on `BigQuery` instead?
 - [ ] C. Hive
 - [ ] D. Spark
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Hive
+</b>
 
 > `Hive` is a data warehousing service, which is suited for `BigQuery`.
 > `Spark` is a machine learning service, not suited to `BigQuery`.
-</b></details>
+</details>
 
 ---
 
@@ -298,9 +335,11 @@ To run a local training job using the `Google Cloud SDK`, what command would you
 - [ ] C. gcloud ml-engine local train
 - [ ] D. You cannot use the Google Cloud SDK for local training.
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. gcloud ml-engine local train
-</b></details>
+</b>
+</details>
 
 ---
 
@@ -312,8 +351,10 @@ You need to give a team member the ability to use a training model for predictio
 - [ ] C. Model User
 - [ ] D. Model Owner
 
-<details><summary>ANSWER</summary><b>
+<details><summary>ANSWER</summary>
+<b>
 C. Model User
-</b></details>
+</b>
+</details>
 
 ---
