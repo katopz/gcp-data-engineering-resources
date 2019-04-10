@@ -27,6 +27,9 @@ You are evaluating a storage solution for your data. Your data is in structured,
 
 <details><summary>ANSWER</summary><b>
 A. Cloud BigTable
+
+> Explanation: `BigTable` meets the requirements of _low latency_ analysis on _non-relational_ data.
+`Cloud Datastore` supports _non-relational_ data, but is geared more toward transactional uses than analytics.
 </b></details>
 
 ---
