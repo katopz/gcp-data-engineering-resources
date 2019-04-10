@@ -9,8 +9,8 @@ Your company is evaluating moving to Google Cloud. You will need to migrate your
 <details><summary>ANSWER</summary><b>
 C. Cloud SQL
 
-> `Explanation` : Cloud SQL is the direct lift and shift option for existing MySQL workloads and requires minimal modification.
-Cloud Bigtable is a NoSQL analytics database, and not a direct equivalent to a MySQL lift and shift operation.
+> Explanation : `Cloud SQL` is the direct lift and shift option for existing MySQL workloads and requires minimal modification.
+`Cloud Bigtable` is a NoSQL analytics database, and not a direct equivalent to a MySQL lift and shift operation.
 
 </b></details>
 
