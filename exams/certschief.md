@@ -18,10 +18,15 @@ C. Cloud SQL
 
 ## Question 2
 
-- [ ] 
+You are evaluating a storage solution for your data. Your data is in structured, non-relational format, and will be used for analysis. You need low latency reads to your data, which is at least 40TB in size and growing. What solution should you use?
+
+- [ ] A. Cloud BigTable
+- [ ] B. Cloud Spanner
+- [ ] C. Cloud SQL
+- [ ] D. Cloud Datastore
 
 <details><summary>ANSWER</summary><b>
-
+A. Cloud BigTable
 </b></details>
 
 ---
