@@ -164,8 +164,6 @@ Which of these actions can you not perform with the `BigQuery` Web UI?
 - [ ] C. Load multiple files at once
 - [ ] D. Create dataset
 
-> You can toggle Legacy SQL to off using the Web UI.
-> You cannot load multiple files with the web UI, but can with others methods such as the command line.
 <details><summary>ANSWER</summary><b>
 C. Load multiple files at once
 
