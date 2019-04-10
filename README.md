@@ -1,5 +1,5 @@
-# google-data-engineer-cheat-sheet
-Cheat sheet for Google Data Engineer
+# gcp-data-engineer-resources
+Mixed resources of Google Data Engineer Certifications
 
 ## Path
 1. Google x Coursera Data Engineering : https://www.coursera.org/specializations/gcp-data-machine-learning
