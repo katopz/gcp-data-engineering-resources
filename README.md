@@ -2,8 +2,10 @@
 Cheat sheet for Google Data Engineer
 
 ## Path
-1. Google x Coursera Data Engineering : https://www.coursera.org/programs/gcp-program-gtm-oct18-nxsgm/collections/rB6cVdlIEei3VwoCnzVRLg~pqD7t?collectionId=pqD7t
+1. Google x Coursera Data Engineering : https://www.coursera.org/specializations/gcp-data-machine-learning
+1. Preparing for the Google Cloud Professional Cloud Architect Exam : https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam
 1. Qwiklabs Baseline: Data, ML, AI : https://google.qwiklabs.com/quests/34?qlcampaign=1i-gcpmlf-127+
+1. https://www.whizlabs.com/google-cloud-certified-professional-data-engineer/
 
 ## TODO
 - [ ] https://cloud.google.com/certification/practice-exam/data-engineer
