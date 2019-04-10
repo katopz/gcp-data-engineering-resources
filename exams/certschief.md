@@ -1,5 +1,5 @@
 ## Question 1
-Your company is evaluating moving to Google Cloud. You will need to migrate your 3 TB on-premises MySQL databases to a managed database service in order to reduce administrative overhead. Minimal modification to the database is desired for the move. What managed database service would best meet this requirement?
+Your company is evaluating moving to Google Cloud. You will need to migrate your 3 TB on-premises `MySQL` databases to a managed database service in order to reduce administrative overhead. Minimal modification to the database is desired for the move. What managed database service would best meet this requirement?
 
 - [ ] A. Cloud Spanner
 - [ ] B. Cloud Datastore
@@ -13,8 +13,8 @@ C. `Cloud SQL`
 
 </b>
 
-> `Cloud SQL` is the direct lift and shift option for existing MySQL workloads and requires minimal modification.
-> `Cloud `BigTable`` is a NoSQL analytics database, and not a direct equivalent to a MySQL lift and shift operation.
+> `Cloud SQL` is the direct lift and shift option for existing `MySQL` workloads and requires minimal modification.
+> Cloud `BigTable` is a NoSQL analytics database, and not a direct equivalent to a `MySQL` lift and shift operation.
 </details>
 
 ---
@@ -199,7 +199,7 @@ D. SOCKS proxy
 ## Question 11
 Which of these actions can you not perform with the `BigQuery` Web UI?
 
-- [ ] A. Assign IAM roles.
+- [ ] A. Assign `IAM` roles.
 - [ ] B. Toggle Legacy SQL to off on queries.
 - [ ] C. Load multiple files at once
 - [ ] D. Create dataset
@@ -221,7 +221,7 @@ C. Load multiple files at once
 You have a very large table with many columns that are not immediately relevant to your non-IT team members. You want to reduce the amount of irrelevant column data available in your table in order to keep from confusing your team members that need to run queries against it. What is a valid method of achieving this task?
 
 - [ ] A. Create a copy of the table, and delete the unneeded columns.
-- [ ] B. Assign IAM roles to only the columns that your staff needs access to.
+- [ ] B. Assign `IAM` roles to only the columns that your staff needs access to.
 - [ ] C. Use views to restrict the amount of data available, and have team members run their query against the view.
 - [ ] D. Hide the unneeded columns from the table.
 
