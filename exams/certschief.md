@@ -17,7 +17,6 @@ C. Cloud SQL
 ---
 
 ## Question 2
-
 You are evaluating a storage solution for your data. Your data is in structured, non-relational format, and will be used for analysis. You need low latency reads to your data, which is at least 40TB in size and growing. What solution should you use?
 
 - [ ] A. Cloud BigTable
@@ -35,11 +34,15 @@ A. Cloud BigTable
 ---
 
 ## Question 3
+You need to correct streaming messages that arrive out of order due to latency. Which Google Cloud service would you use to resolve this?
 
-- [ ] 
+- [ ] A. BigQuery
+- [ ] B. Cloud Dataflow
+- [ ] C. Cloud Pub/Sub
+- [ ] D. Cloud SQL
 
 <details><summary>ANSWER</summary><b>
-
+B. Cloud Dataflow
 </b></details>
 
 ---
