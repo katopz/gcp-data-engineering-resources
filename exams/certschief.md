@@ -151,8 +151,7 @@ How can you connect to the web interface of a `Dataproc` cluster? (Choose two)
 - [ ] D. SOCKS proxy
 
 <details><summary>ANSWER</summary><b>
-B. Allow the necessary web ports access via firewall rules, and limit access to your network.
-D. SOCKS proxy
+B, D
 </b></details>
 
 ---
@@ -168,7 +167,10 @@ Which of these actions can you not perform with the `BigQuery` Web UI?
 > You can toggle Legacy SQL to off using the Web UI.
 > You cannot load multiple files with the web UI, but can with others methods such as the command line.
 <details><summary>ANSWER</summary><b>
+C. Load multiple files at once
 
+> You can toggle Legacy SQL to off using the Web UI.
+> You cannot load multiple files with the web UI, but can with others methods such as the command line.
 </b></details>
 
 ---
@@ -215,7 +217,7 @@ Choose two best practices for creating more efficient queries and saving costs.
 - [ ] D. Filter early and big with `WHERE` clauses
 
 <details><summary>ANSWER</summary><b>
-B,D
+B, D
 
 > Since `BigQuery` is columnar, choosing unnecessary columns greatly increases query amounts.
 > You want to de-normalize when possible, with nested/repeating columns.
@@ -283,6 +285,8 @@ Which Hadoop ecosystem service is most suited to storing on `BigQuery` instead?
 - [ ] D. Spark
 
 <details><summary>ANSWER</summary><b>
+C. Hive
+
 > `Hive` is a data warehousing service, which is suited for `BigQuery`.
 > `Spark` is a machine learning service, not suited to `BigQuery`.
 </b></details>
