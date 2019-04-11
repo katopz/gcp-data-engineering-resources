@@ -1,10 +1,11 @@
 # gcp-data-engineer-resources
 Mixed resources of Google Data Engineer Certifications
 
-## Path
-1. Google x Coursera Data Engineering : https://www.coursera.org/specializations/gcp-data-machine-learning
-1. Preparing for the Google Cloud Professional Cloud Architect Exam : https://www.coursera.org/learn/preparing-cloud-professional-cloud-architect-exam
-1. Qwiklabs Baseline: Data, ML, AI : https://google.qwiklabs.com/quests/34?qlcampaign=1i-gcpmlf-127+
+## Learning Tracks
+1. Data Engineering on GCP : https://www.coursera.org/specializations/gcp-data-machine-learning
+1. `Qwiklabs` Baseline: Data, ML, AI : https://google.qwiklabs.com/quests/34?qlcampaign=1i-gcpmlf-127+
+1. `Qwiklabs` Data Engineering : https://google.qwiklabs.com/quests/25?qlcampaign=1i-brs-924
+1. Preparing for the Google Cloud Professional Data Engineer Exam : https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam
 1. https://www.whizlabs.com/google-cloud-certified-professional-data-engineer/
 
 ## TODO
