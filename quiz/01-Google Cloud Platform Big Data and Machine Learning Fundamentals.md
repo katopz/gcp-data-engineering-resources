@@ -9,10 +9,10 @@ Google Cloud Platform is:
 
 <details><summary>ANSWER</summary>
 
-- [x] **Operated by Google on the same infrastructure it uses**
-- [x] **A set of modular services from which you can compose cloud-based applications**
-- [ ] Most cost-effective if you pre-purchase instances on a yearly basis
-- [x] **A platform on which to host scalable and fast distributed applications**
+- [x] Operated by Google on the same infrastructure it uses
+- [x] A set of modular services from which you can compose cloud-based applications
+- [ ] ~~Most cost-effective if you pre-purchase instances on a yearly basis~~
+- [x] A platform on which to host scalable and fast distributed applications
 
 > 
 </details>
