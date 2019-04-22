@@ -14,7 +14,25 @@ Google Cloud Platform is:
 - [ ] ~~Most cost-effective if you pre-purchase instances on a yearly basis~~
 - [x] A platform on which to host scalable and fast distributed applications
 
-> 
+</details>
+
+---
+
+## Question 2
+Compute nodes on GCP are:  
+(select the correct option)
+
+- [ ] Allocated on demand, and you pay for the time that they are up.
+- [ ] Expensive to create and teardown
+- [ ] Pre-installed with all the software packages you might ever need.
+- [ ] One of ~50 choices in terms of CPU and memory
+<details><summary>ANSWER</summary>
+
+- [x] Allocated on demand, and you pay for the time that they are up.
+- [ ] ~~Expensive to create and teardown~~
+- [ ] ~~Pre-installed with all the software packages you might ever need.~~
+- [ ] ~~One of ~50 choices in terms of CPU and memory~~
+
 </details>
 
 ---
