@@ -28,12 +28,33 @@ Compute nodes on GCP are:
 - [ ] Expensive to create and teardown
 - [ ] Pre-installed with all the software packages you might ever need.
 - [ ] One of ~50 choices in terms of CPU and memory
+
 <details><summary>ANSWER</summary>
 
 - [x] Allocated on demand, and you pay for the time that they are up.
 - [ ] ~~Expensive to create and teardown~~
 - [ ] ~~Pre-installed with all the software packages you might ever need.~~
 - [ ] ~~One of 50 choices in terms of CPU and memory~~
+
+</details>
+
+---
+
+## Question 3
+Google Cloud Storage is a good option for storing data that:
+(select all of the correct options)
+
+- [ ] Is ingested in real-time from sensors and other devices
+- [ ] Will be frequently read/written from a compute node
+- [ ] May be required to be read at some later time
+- [ ] May be imported into a cluster for analysis
+
+<details><summary>ANSWER</summary>
+
+- [ ] ~~Is ingested in real-time from sensors and other devices~~
+- [ ] ~~Will be frequently read/written from a compute node~~
+- [x] May be required to be read at some later time
+- [x] May be imported into a cluster for analysis
 
 </details>
 
