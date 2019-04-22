@@ -8,6 +8,28 @@ Mixed resources of Google Data Engineer Certifications
 1. Preparing for the Google Cloud Professional Data Engineer Exam : https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam
 1. https://www.whizlabs.com/google-cloud-certified-professional-data-engineer/
 
+## Format
+```
+## Question 
+What?
+
+- [ ] A. Foo
+- [ ] B. 
+- [ ] C. 
+- [ ] D. 
+
+<details><summary>ANSWER</summary>
+<b>
+
+A. Foo
+
+</b>
+
+> 
+</details>
+
+---
+```
 ## TODO
 - [ ] https://cloud.google.com/certification/practice-exam/data-engineer
 - [ ] https://github.com/xg1990/GCP-Data-Engineer-Study-Guide/blob/master/GCP%20Data%20Engineer.pdf
