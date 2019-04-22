@@ -33,7 +33,7 @@ Compute nodes on GCP are:
 - [x] Allocated on demand, and you pay for the time that they are up.
 - [ ] ~~Expensive to create and teardown~~
 - [ ] ~~Pre-installed with all the software packages you might ever need.~~
-- [ ] ~~One of ~50 choices in terms of CPU and memory~~
+- [ ] ~~One of 50 choices in terms of CPU and memory~~
 
 </details>
 
