@@ -77,3 +77,25 @@ Relational databases are a good choice when you need:
 - [x] Transactional updates on relatively small datasets
 
 </details>
+
+---
+
+## Question 4
+Cloud SQL and Cloud Dataproc offer familiar tools (MySQL and
+Hadoop/Pig/Hive/Spark). What is the value-add provided by Google Cloud
+Platform?  
+(select all of the correct options)
+
+- [ ] It’s the same API, but Google implements it better
+- [ ] Google-proprietary extensions and bug fixes to MySQL, Hadoop, and so on
+- [ ] Fully-managed versions of the software offer no-ops
+- [ ] Running it on Google infrastructure offers reliability and cost savings
+
+<details><summary>ANSWER</summary>
+
+- [ ] ~~It’s the same API, but Google implements it better~~
+- [ ] ~~Google-proprietary extensions and bug fixes to MySQL, Hadoop, and so on~~
+- [x] Fully-managed versions of the software offer no-ops
+- [x] Running it on Google infrastructure offers reliability and cost savings
+
+</details>
