@@ -59,3 +59,21 @@ Google Cloud Storage is a good option for storing data that:
 </details>
 
 ---
+
+## Question 4
+Relational databases are a good choice when you need:  
+(select all of the correct options)
+
+- [ ] Streaming, high-throughput writes
+- [ ] Fast queries on terabytes of data
+- [ ] Aggregations on unstructured data
+- [ ] Transactional updates on relatively small datasets
+
+<details><summary>ANSWER</summary>
+
+- [ ] ~~Streaming, high-throughput writes~~
+- [ ] ~~Fast queries on terabytes of data~~
+- [ ] ~~Aggregations on unstructured data~~
+- [x] Transactional updates on relatively small datasets
+
+</details>
