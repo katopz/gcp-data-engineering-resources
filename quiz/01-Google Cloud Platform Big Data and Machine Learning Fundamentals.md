@@ -80,7 +80,7 @@ Relational databases are a good choice when you need:
 
 ---
 
-## Question 4
+## Question 5
 Cloud SQL and Cloud Dataproc offer familiar tools (MySQL and
 Hadoop/Pig/Hive/Spark). What is the value-add provided by Google Cloud
 Platform?  
@@ -99,3 +99,62 @@ Platform?
 - [x] Running it on Google infrastructure offers reliability and cost savings
 
 </details>
+
+---
+
+## Question 6
+Match the use case on the left with the product on the right
+
+- A. Searching for objects by attribute value  
+- B. High-throughput writes of wide-column data  
+- C. Warehousing structured data  
+- D. Create, test new machine learning methods  
+- E. Develop Big Data algorithms interactively in Python  
+- F. No-ops, custom machine learning applications at scale  
+- G. Automatically reject inappropriate image content  
+- H. Build application to monitor Spanish twitter feed  
+- I. Transcribe customer support calls  
+
+1. Vision API
+2. Datalab
+3. BigTable
+4. TensorFlow
+5. BigQuery
+6. Speech-to-Text
+7. Cloud MLE
+8. Translation API
+9. Datastore
+
+<details><summary>ANSWER</summary>
+
+- `9. Datastore` A. Searching for objects by attribute value  
+- `3. BigTable` B. High-throughput writes of wide-column data  
+- `5. BigQuery` C. Warehousing structured data  
+- `4. TensorFlow` D. Create, test new machine learning methods  
+- `2. Datalab` E. Develop Big Data algorithms interactively in Python  
+- `7. Cloud MLE` F. No-ops, custom machine learning applications at scale  
+- `1. Vision API`G. Automatically reject inappropriate image content  
+- `8. Translation API` H. Build application to monitor Spanish twitter feed  
+- `6. Speech-to-Text` I. Transcribe customer support calls  
+
+</details>
+
+---
+
+## Question 7
+Match the use case on the left with the product on the right
+
+- A. Decoupling producers and consumers of data in large organizations and complex systems
+- B. Scalable, fault-tolerant multi-step processing of data
+
+1. Cloud Dataflow
+2. Cloud Pub/Sub
+
+<details><summary>ANSWER</summary>
+
+- `Cloud Dataflow` A. Decoupling producers and consumers of data in large organizations and complex systems
+- `Cloud Pub/Sub` B. Scalable, fault-tolerant multi-step processing of data
+
+</details>
+
+---
