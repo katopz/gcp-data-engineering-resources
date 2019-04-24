@@ -152,8 +152,8 @@ Match the use case on the left with the product on the right
 
 <details><summary>ANSWER</summary>
 
-- `Cloud Pub/Sub` A. Decoupling producers and consumers of data in large organizations and complex systems
-- `Cloud Dataflow` B. Scalable, fault-tolerant multi-step processing of data
+- `2. Cloud Pub/Sub` A. Decoupling producers and consumers of data in large organizations and complex systems
+- `1. Cloud Dataflow` B. Scalable, fault-tolerant multi-step processing of data
 
 </details>
 
