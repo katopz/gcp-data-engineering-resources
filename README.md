@@ -35,3 +35,4 @@ A. Foo
 - [ ] https://github.com/xg1990/GCP-Data-Engineer-Study-Guide/blob/master/GCP%20Data%20Engineer.pdf
 - [ ] https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf
 - [ ] https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311
+- [ ] https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333?fbclid=IwAR28fNbWrVx_K9ekEoz-mfTWhHzU_A0t46mTd19pugGPugpHCMLTZ4ZO81g
