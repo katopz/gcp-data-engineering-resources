@@ -8,6 +8,8 @@ Mixed resources of Google Data Engineer Certifications
 1. Preparing for the Google Cloud Professional Data Engineer Exam : https://www.coursera.org/learn/preparing-cloud-professional-data-engineer-exam
 1. https://www.whizlabs.com/google-cloud-certified-professional-data-engineer/
 1. Partner Certification Kickstart : https://partneronair.withgoogle.com/events/partner-certification-kickstart-2019-05-apac-program
+1. Live Q&A office hours #1 : https://youtu.be/QkvRzYP_bSw
+1. Live Q&A office hours #2 : https://youtu.be/_z_IqAFNwsM
 
 ## Format
 ```
