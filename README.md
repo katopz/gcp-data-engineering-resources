@@ -36,7 +36,7 @@ A. Foo
 ```
 ## TODO
 - [x] [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer)
-- [ ] [GCP Data Engineer](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide/blob/master/GCP%20Data%20Engineer.pdf)
+- [x] [GCP Data Engineer](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide/blob/master/GCP%20Data%20Engineer.pdf)
 - [ ] [Google Data Engineering Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf)
 - [ ] [A Study Guide to the Google Cloud Professional Data Engineer Certification Path](https://medium.com/@simonleewm/a-study-guide-to-the-google-cloud-professional-data-engineer-certification-path-9e83e41e311)
 - [ ] [How I Passed the Google Cloud Professional Data Engineer Certification Exam](https://towardsdatascience.com/passing-the-google-cloud-professional-data-engineer-certification-87da9908b333)
