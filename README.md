@@ -11,7 +11,7 @@ Mixed resources of Google Data Engineer Certifications
 1. Live Q&A office hours #1 : https://youtu.be/QkvRzYP_bSw
 1. Live Q&A office hours #2 : https://youtu.be/_z_IqAFNwsM
 
-## TODO
+## Extras
 - [x] [Practice Exam](https://cloud.google.com/certification/practice-exam/data-engineer)
 - [x] [GCP Data Engineer](https://github.com/xg1990/GCP-Data-Engineer-Study-Guide/blob/master/GCP%20Data%20Engineer.pdf)
 - [x] [Google Data Engineering Cheatsheet](https://github.com/ml874/Data-Engineering-on-GCP-Cheatsheet/blob/master/data_engineering_on_GCP.pdf)
@@ -21,5 +21,6 @@ Mixed resources of Google Data Engineer Certifications
 - [x] [Notes from my Google Cloud Professional Data Engineer Exam](https://medium.com/@sathishvj/notes-from-my-google-cloud-professional-data-engineer-exam-530d11966aa0)
 - [x] [A GCP flowchart a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
 - [x] [Deconstructing a Customer Case: Data Engineer Exam](https://www.youtube.com/watch?v=r_yYDysfB-k)
+- [x] [Every Google Cloud product described in 4 words or less](https://medium.com/google-cloud/every-google-cloud-product-described-in-4-words-or-less-4d3f37f4567b)
 
 </b>
